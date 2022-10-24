@@ -41,6 +41,11 @@ https://academy.sophossolutions.com/enrol/index.php?id=137
 ## Referencia
 - Markdown: https://www.markdownguide.org/cheat-sheet/
 
+## RESOURCES
+- Python Notebooks
+  - (obiware) https://www.kaggle.com/docs/notebooks
+  - 
+
 ## Math
 ### Linear Algebra
 - https://docs.scipy.org/doc/scipy/tutorial/linalg.html
