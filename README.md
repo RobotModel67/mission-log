@@ -8,8 +8,10 @@ WiiS Mission Log
 
 ### AWS Certificacion
 1. Free tier account
-2. Train https://www.markdownguide.org/cheat-sheet/ 
-3. Take a exam
+2. Train https://explore.skillbuilder.aws/pages/16/learner-dashboard
+3. Take a exam https://aws.amazon.com/es/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1
+4. Profile https://partnercentral.awspartner.com/home
+5. 
 
 #### 2022-09-12 Sophos Curso DEVOPS - La primera manera.
 - https://academy.sophossolutions.com/course/view.php?id=144
