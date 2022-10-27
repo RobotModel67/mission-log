@@ -38,14 +38,6 @@ https://academy.sophossolutions.com/enrol/index.php?id=137
 - Competitive Trail Runner \ Triathlon
 - World Explorer
 
-## Referencia
-- Markdown: https://www.markdownguide.org/cheat-sheet/
-
-## RESOURCES
-- Python Notebooks
-  - (obiware) https://www.kaggle.com/docs/notebooks
-  - 
-
 ## Math
 ### Linear Algebra
 - https://docs.scipy.org/doc/scipy/tutorial/linalg.html
@@ -71,3 +63,13 @@ Johansson!
 ## Device
 - Physic https://mujoco.readthedocs.io/en/latest/overview.html
 - 
+
+## Referencia
+- Markdown: https://www.markdownguide.org/cheat-sheet/
+- VS Code: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+## RESOURCES
+- Python Notebooks
+  - (obiware) https://www.kaggle.com/docs/notebooks
+  - 
+## OUTLOOK
