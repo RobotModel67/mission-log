@@ -8,18 +8,20 @@ WiiS Mission Log
 
 ### AWS Certificacion
 1. Free tier account
-2. Train https://explore.skillbuilder.aws/pages/16/learner-dashboard (RobotModel67)
-  - AWS Cloud Practitioner Essentials (2022-10-28)
-  - 
-3. Take a exam https://aws.amazon.com/es/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1
+2. Training https://explore.skillbuilder.aws/pages/16/learner-dashboard (RobotModel67)
+3. Take a exam 
   - Certification Account: https://www.certmetrics.com/amazon/default.aspx
+  - AWS Certified Developer - Associate: https://aws.amazon.com/es/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1
+  - AWS Certified DevOps Engineer - Professional: https://aws.amazon.com/es/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1
+  - AWS Certified Machine Learning - Specialty: https://aws.amazon.com/es/certification/certified-machine-learning-specialty/?ch=sec&sec=rmg&d=1
 4. Profile https://partnercentral.awspartner.com/home
-5. 
 
-#### 2022-09-12 Sophos Curso DEVOPS - La primera manera.
+#### 2022-09-12 Sophos Academy
   - **DevOps Profesional (2022-10-27)** https://academy.sophossolutions.com/course/view.php?id=144
   - **AWS Cloud Practitioner (2022-10-28)** https://academy.sophossolutions.com/course/view.php?id=63
   - **AWS Developer Associate !!!** https://academy.sophossolutions.com/course/view.php?id=93
+    - __AWS Trainning (Correo Sophos):__ https://explore.skillbuilder.aws/learn/mycourses
+    - __Presentar el examen Sophos:__ https://academy.sophossolutions.com/mod/quiz/view.php?id=1615
 - https://academy.sophossolutions.com/course/view.php?id=43
 - https://academy.sophossolutions.com/course/view.php?id=46
 - https://academy.sophossolutions.com/course/view.php?id=120
@@ -27,8 +29,8 @@ WiiS Mission Log
 - https://academy.sophossolutions.com/course/view.php?id=169
 
 #### DevOps Engineer
-https://academy.sophossolutions.com/enrol/index.php?id=137
-
+- https://academy.sophossolutions.com/enrol/index.php?id=137
+- (RobotModel67) https://explore.skillbuilder.aws/learn/lp/85/devops-engineer-learning-plan
 
 ### Continue...
 * Agile Software Architect \ DevOps Certificate
