@@ -66,7 +66,11 @@ Johansson!
 
 ## Device
 - Physic https://mujoco.readthedocs.io/en/latest/overview.html
-- 
+- https://www.yoctoproject.org/software-overview/
+- https://buildroot.org/
+- RFI / NFC
+  - https://www.amazon.com/SunFounder-Mifare-Reader-Arduino-Raspberry/dp/B07KGBJ9VG
+  
 
 ## Referencia
 - Markdown: https://www.markdownguide.org/cheat-sheet/
@@ -77,3 +81,4 @@ Johansson!
   - (obiware) https://www.kaggle.com/docs/notebooks
   - 
 ## OUTLOOK
+- https://www.mkdocs.org/
