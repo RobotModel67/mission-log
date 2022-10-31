@@ -10,7 +10,7 @@ WiiS Mission Log
 1. Free tier account
 2. Training https://explore.skillbuilder.aws/pages/16/learner-dashboard (RobotModel67)
 3. Take a exam 
-  - Certification Account: https://www.certmetrics.com/amazon/default.aspx
+  - Certification Account (Sophos): https://www.certmetrics.com/amazon/default.aspx
   - AWS Certified Developer - Associate: https://aws.amazon.com/es/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1
   - AWS Certified DevOps Engineer - Professional: https://aws.amazon.com/es/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1
   - AWS Certified Machine Learning - Specialty: https://aws.amazon.com/es/certification/certified-machine-learning-specialty/?ch=sec&sec=rmg&d=1
@@ -68,6 +68,7 @@ Johansson!
 - Physic https://mujoco.readthedocs.io/en/latest/overview.html
 - https://www.yoctoproject.org/software-overview/
 - https://buildroot.org/
+- https://esphome.io/
 - RFI / NFC
   - https://www.amazon.com/SunFounder-Mifare-Reader-Arduino-Raspberry/dp/B07KGBJ9VG
   
