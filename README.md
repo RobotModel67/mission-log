@@ -37,6 +37,12 @@ WiiS Mission Log
 * Site Reliability Engineering
 * Cloud Developer
 
+### Remote Work
+* https://arc.dev/
+* https://docs.google.com/document/d/1lhrSdonFhcwFlnVgl2_rwpCnRZVsipPX-EImX8ecQJo/edit
+* https://www.youtube.com/watch?v=0FD-fjojrzw
+
+
 ## Maximo
 - Fit \ Healthy \ Happy
 - Competitive Trail Runner \ Triathlon
@@ -83,3 +89,5 @@ Johansson!
   - 
 ## OUTLOOK
 - https://www.mkdocs.org/
+
+
