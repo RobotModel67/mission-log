@@ -90,4 +90,8 @@ Johansson!
 ## OUTLOOK
 - https://www.mkdocs.org/
 
+## Tasks
+SLF4J https://www.slf4j.org/manual.html  
+https://www.baeldung.com/slf4j-with-log4j2-logback  
+
 
